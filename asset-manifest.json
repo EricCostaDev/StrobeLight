@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StrobeLight/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/StrobeLight/static/js/main.c16566be.chunk.js",
+    "main.js.map": "/StrobeLight/static/js/main.c16566be.chunk.js.map",
+    "runtime-main.js": "/StrobeLight/static/js/runtime-main.c4d0b90a.js",
+    "runtime-main.js.map": "/StrobeLight/static/js/runtime-main.c4d0b90a.js.map",
+    "static/js/2.d35dbd3d.chunk.js": "/StrobeLight/static/js/2.d35dbd3d.chunk.js",
+    "static/js/2.d35dbd3d.chunk.js.map": "/StrobeLight/static/js/2.d35dbd3d.chunk.js.map",
+    "static/js/3.be3d93d4.chunk.js": "/StrobeLight/static/js/3.be3d93d4.chunk.js",
+    "static/js/3.be3d93d4.chunk.js.map": "/StrobeLight/static/js/3.be3d93d4.chunk.js.map",
+    "index.html": "/StrobeLight/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/StrobeLight/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d35dbd3d.chunk.js.LICENSE.txt": "/StrobeLight/static/js/2.d35dbd3d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/StrobeLight/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4d0b90a.js",
+    "static/js/2.d35dbd3d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c16566be.chunk.js"
+  ]
+}
